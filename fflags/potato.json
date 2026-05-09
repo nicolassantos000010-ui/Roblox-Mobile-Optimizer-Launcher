@@ -1,0 +1,7 @@
+{
+  "DFIntTaskSchedulerTargetFps": "9999",
+  "FFlagDisablePostFx": "True",
+  "FFlagDisableShadows": "True",
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "DFIntTextureQualityOverride": "0"
+}
